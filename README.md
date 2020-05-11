@@ -16,4 +16,4 @@
     to start dispensing liquid in the bottles.
 
 ## NOTE1: This project were did with my graduation friend Mark Andrade
-## NOTE2: I can't upload the final code, because the principal owner of the project is ESPOL
+## NOTE2: I can't upload the final code and individual codes, because the principal owner of the project is ESPOL
