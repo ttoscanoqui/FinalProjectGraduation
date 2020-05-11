@@ -5,7 +5,7 @@
 
     In my graduation project, I worked in the bottle filling station of the IPA26 lucas Nülle plant, 
     which had different stations, by artificial vision, under the opevcv library and code created by 
-    me     according to the need of the project, we processed the images taken by two cameras, 
+    me according to the need of the project, we processed the images taken by two cameras, 
     in which it was filtered, at grayscale, and pixel levels, to determine if the bottles that 
     entered the filling station, returned without caps, without liquid or without garbage, 
     by means of pixel counting ranges. I did that segmentation and the results were 
