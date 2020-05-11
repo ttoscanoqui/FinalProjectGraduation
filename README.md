@@ -3,7 +3,7 @@
 
 ### There is the code used in my last project as student in ESPOL University, 
 
-    In my graduation project, I worked in the bottle filling station of the IPA26 lucas Nülle plant, 
+    The project was worked in the bottle filling station of the IPA26 lucas Nülle plant, 
     which had different stations, by artificial vision, under the opevcv library and code created by 
     me according to the need of the project, we processed the images taken by two cameras, 
     in which it was filtered, at grayscale, and pixel levels, to determine if the bottles that 
