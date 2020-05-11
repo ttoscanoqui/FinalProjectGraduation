@@ -31,4 +31,4 @@
     and compare with the image segmentation data.
 ### converion_plc_variables
     This code convert and send the signals depending on the results obtained to the plc.
-To see the video explain clic here--->> https://www.youtube.com/watch?v=f2IvcVWkzHA
+
