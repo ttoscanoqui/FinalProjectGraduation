@@ -15,3 +15,19 @@
     the event that none of those situations existed, the signal was sent that everything is correct, 
     to start dispensing liquid in the bottles.
 
+### Canny_code (canny library-opencv)
+    This code first filter out any noise ussing Gaussian filter.
+    The the intensity gradiente of the image is finded.
+    After that apply the non-maximun suppression. This removes pixeles that are not considered to be part of an edge.
+    Finally step apply hysteresis, using two thresholds (lower and upper)
+### Gray_scale
+    This code convert the full color token photos to a gray scale photo, because it is easier process a gray scale foto.
+### Imagen_segmentation
+    This code divide the bottle in two parts, the first one part of the lid, and the second one the rest of the bottle
+    And determinated the range of pixel of both parts that are considered the optimal condition that the bottle have to enter
+    to the filling station.
+### Characteristic_extraction
+    This code extract the numbers of pixel bottle by bottle, in two parts segmentation,(part of lid and rest of the bottle), 
+    and compare with the image segmentation data.
+### converion_plc_variables
+    This code convert and send the signals depending on the results obtained to the plc.
